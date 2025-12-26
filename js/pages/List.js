@@ -98,33 +98,36 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Reglas para Subir un Record:</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Los niveles deben tener una dificultad desde Easy Demon o superior para ser añadidos a la lista.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        El verificador de tu nivel debe contener su propio video como prueba de su verificación. Aplica lo mismo a un First Victor.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Los videos de Completions o Verificaciones deben estar obligatoriamente subidos a alguna plataforma (Drive, Youtube, Dropbox, entre otros) para ser incluidos.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        Si completas el nivel en una copia, ya sea LDM, bugfix, no debe tener Nerfs, o cambio en la decoración que afecte la dificultad del nivel, de otra manera no será aceptada. La misma debe ser subida a los servidores para revisar la copia.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        Debes contar con un raw footage de tu Completion en caso de que se te pida. Esto aplica de forma obligatoria en niveles de dificultad Extreme.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Si tienes un mod hack, debes incluir el sonido de los clicks, CPS counter y cheat indicator en tu video.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Si eres de dispositivo móvil: debes mostrar los taps en la pantalla. ACLARACIÓN: No es el CPS Counter, usa los taps que salen en tu pantalla (se activa en el modo desarrollador). No utilices un mod, debe ser si o si de tu celular.
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        El CBF, Clicks on steps y Frame Extrapolation están permitidos. 
+                    </p>
+                    <p>
+                        Cualquier mod que altere la visualización del nivel no será permitida. (ejemplo: No shaders, No details, Show Hitboxes, Show Layout, etc.)
                     </p>
                 </div>
-            </div>
+            </div>1
         </main>
     `,
     data: () => ({
