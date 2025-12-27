@@ -94,3 +94,8 @@ input[type="checkbox"] {
     cursor: pointer;
     margin: 0;
 }
+/* Esto selecciona los iconos de Discord y el interruptor de modo */
+header .nav + div, 
+header .nav + div + a {
+    color: #1e0e2e; /* Cambia este código por el color que quieras */
+}
