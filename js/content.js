@@ -75,10 +75,14 @@ export async function fetchLeaderboard() {
         });
 
         // Records
-        level.records.forEach((record) => {
-            const user = Object.keys(scoreMap).find(
-                (u) => u.toLowerCase() === record.user.toLowerCase(),
-            ) || record.user;
+        // Records
+level.records.forEach((record) => {
+    // Si el récord no existe o no tiene usuario, lo ignora y continúa con el siguiente
+    if (!record || !record.user) return; 
+
+    const user = Object.keys(scoreMap).find(
+        (u) => u.toLowerCase() === record.user.toLowerCase(),
+    ) || record.user;
             scoreMap[user] ??= {
                 verified: [],
                 completed: [],
