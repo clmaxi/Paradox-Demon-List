@@ -94,3 +94,9 @@ input[type="checkbox"] {
     cursor: pointer;
     margin: 0;
 }
+/* Selecciona los iconos (SVG) dentro de la lista de List Editors */
+aside ul li svg, 
+.type-title-sm ~ ul li svg {
+    filter: brightness(0) invert(1);
+    /* Esto convierte cualquier color en blanco puro */
+}
