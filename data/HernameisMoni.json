@@ -9,6 +9,10 @@
     "password": "Copyable",
     "records": [
         {
+            "user": "Sakyx",
+            "link": "https://www.youtube.com/watch?v=zd9uMKVm9vM",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
