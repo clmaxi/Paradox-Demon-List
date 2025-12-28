@@ -9,6 +9,10 @@
     "password": "Copyable",
     "records": [
         {
+            "user": "Space",
+            "link": "https://youtu.be/ZEh_oQvxmho",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
