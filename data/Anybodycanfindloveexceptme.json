@@ -1,1 +1,14 @@
-
+{
+    "id": 303,
+    "name": "Anybody can find love except me",
+    "author": "everyoni",
+    "creators": ["everyoni"],
+    "verifier": "Sakyx",
+    "verification": "https://www.youtube.com/watch?v=X0NBWjsuhgw",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+        {
+        }
+    ]
+}
