@@ -5,13 +5,13 @@
     "creators": ["Space, Sweat, zSilo"],
     "verifier": "Space",
     "verification": "https://youtu.be/MHqYZhpi7Cc",
-    "percentToQualify": 100,
+    "percentToQualify": 77,
     "password": "Copyable",
     "records": [
         {
             "user": "Sakyx",
             "link": "https://youtu.be/R_En3wLjhs0",
-            "percent": 77,
+            "percent": 100,
             "hz": 240
         }
     ]
