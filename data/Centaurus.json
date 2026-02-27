@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=CJsdTgKZ7xI&feature=youtu.be",
             "percent": 100,
             "hz": 90
+                   },
+        {
+            "user": "Demoonic",
+            "link": "https://www.youtube.com/watch?v=dCXNjsvUP2w",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
