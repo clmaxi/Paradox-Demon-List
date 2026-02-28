@@ -7,8 +7,12 @@
     "verification": "https://youtu.be/SRE6tdkhyos?si=X2Pq6aTzXhscrzUV",
     "percentToQualify": 100,
     "password": "Copyable",
-    "records": [
+ "records": [
         {
+            "user": "Demoonic",
+            "link": "https://youtu.be/owiTOx-caJg",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
