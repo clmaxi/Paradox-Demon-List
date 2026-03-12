@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Reglas para Subir un Record:</h3>
                     <p>
-                        Los niveles deben tener una dificultad desde Easy Demon o superior para ser añadidos a la lista.
+                        Los niveles deben tener una dificultad desde Medium Demon o superior para ser añadidos a la lista.
                     </p>
                     <p>
                         El verificador de tu nivel debe contener su propio video como prueba de su verificación. Aplica lo mismo a un First Victor.
