@@ -9,6 +9,16 @@
     "password": "Copyable",
     "records": [
         {
+            "user": "ElBologna",
+            "link": "https://youtu.be/a9VkPHJoFmI?si=xMmWVByr6Ohz2uq-",
+            "percent": 100,
+            "hz": 90
+        },
+        {
+            "user": "Demoonic",
+            "link": "https://youtu.be/6DSdQMYZCuA",
+            "percent": 100,
+            "hz": 489
         }
     ]
 }
