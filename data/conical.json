@@ -9,6 +9,16 @@
     "password": "Copyable",
     "records": [
         {
+            "user": "Unarmedss",
+            "link": "https://youtu.be/fU96Ix0DBbA?si=8TQeMz__DmpmzPWW",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Demoonic",
+            "link": "https://youtu.be/pBE7-b65boM",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
